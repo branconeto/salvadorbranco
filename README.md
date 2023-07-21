@@ -1,3 +1,4 @@
 # salvadorbranco
-Diretório www salvadorbranco.com.br
+Básico de GIT e Github no Linux Mint<br>
+salvadorbranco<br>
 #Salvador Branco
